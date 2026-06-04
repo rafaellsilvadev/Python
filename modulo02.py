@@ -23,3 +23,5 @@ if (frequencia >= 75):
 else:
     # Caso a frequência seja menor que 75%
     print("Reprovado por faltas")
+else:
+    print("boa sorte na proxima")
